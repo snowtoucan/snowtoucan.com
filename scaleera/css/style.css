@@ -2,7 +2,7 @@
 /* positioning */
 
 .titlecenter {
-    margin-top: calc(50vh - 1.4em);
+    margin-top: calc(50vh - 1.4em - 28px);
     width: 100vw;
     height: auto;
 }
